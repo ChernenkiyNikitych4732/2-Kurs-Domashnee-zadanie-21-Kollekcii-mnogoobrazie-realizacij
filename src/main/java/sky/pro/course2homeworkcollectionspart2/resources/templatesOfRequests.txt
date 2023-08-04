@@ -1,0 +1,10 @@
+http://localhost:8080/find?fullName=Виноградов%20Иван%20Максимович
+http://localhost:8080/remove?fullName=Виноградов%20Иван%20Максимович
+http://localhost:8080/change?fullNameDeletingEmployee=Виноградов%20Иван%20Максимович&fullNameNewEmployee=Егоров%20Вадим%20Маркович&newSalary=63250&newDept=1
+http://localhost:8080/salaryIndexing?percent=3.5
+http://localhost:8080/salaryLess?lessThan=320000
+http://localhost:8080/salaryMore?moreThan=550000
+http://localhost:8080/findEmployeesMinMaxSalary
+http://localhost:8080/findAndPrintEmployeeById?id=2
+http://localhost:8080/monthMiddleSalary
+http://localhost:8080/middleSalaryByDept?dept=2
